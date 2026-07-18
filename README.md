@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="Muscle Per Step Script OP Auto Farm 2026 Banner" src="https://github.com/user-attachments/assets/3ec1a8fd-507a-420c-be5c-ca63c1291f63" />
+<img width="1280" height="720" alt="Muscle Per Step Script OP Auto Farm 2026 Banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_s7UOJCLCP8%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=2f5cb769b04768242fe67c5af6e5fce1aa0df5c5ae9d3f3f14b0ad041eef7d29" />
 
 # 💪 Muscle Per Step Script - OP Auto Farm 2026
 
